@@ -21,6 +21,7 @@ This repository contains a comprehensive analysis of Instacart's sales data, aim
 **02 Data:** Includes two subfolders:
 
 **1. Original Data:** Raw datasets.
+
 **2. Prepared Data:** Cleaned data prepared for analysis.
 
 **03 Scripts:** Python scripts for analysis, organized in Jupyter notebooks.
@@ -33,11 +34,16 @@ This repository contains a comprehensive analysis of Instacart's sales data, aim
 The code is written in Python, primarily in Jupyter notebooks, utilizing the following libraries:
 
 **1. Pandas:** Data manipulation and analysis
+
 **2. NumPy:** Numerical operations
+
 **3. OS:** File and directory operations
+
 **4. Matplotlib.pyplot and Matplotlib.ticker.FuncFormatter:** Visualization and custom formatting
-**4. Seaborn:** Statistical data visualization
-**5. Scipy:** Scientific computing
+
+**5. Seaborn:** Statistical data visualization
+
+**6. Scipy:** Scientific computing
 
 ## Disclaimer
 This dataset provided by Instacart includes only fictitious customer data and is intended for educational purposes as part of Career Foundry's Data Analytics program
